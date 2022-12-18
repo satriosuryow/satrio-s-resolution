@@ -3,3 +3,4 @@ SATRIO'S RESOLUTION
  - Mengurangi bermain game
  - Konsisten untuk belajar koding setiap harinya
  - Yang tujuannya untuk menjadi frontend developer
+ - Membanggakan orangtua
